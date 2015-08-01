@@ -3,3 +3,4 @@ print "I am liu xiao gang";
 hello word!
 do you know?
 are you right?
+hehe hehe !!
